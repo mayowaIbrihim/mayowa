@@ -1,0 +1,32 @@
+print('''hi my name is mayowa
+      I'm from nigeria
+      I live in lagos
+      I'm 9 years old 
+       my birthay is on july 10TH 2012
+      and I love playing''')
+print('12345'+'678910')
+print('hello '+'young '+'python '+'progamers')
+print('mayowa '*19)
+hoby='am mayowa'
+print(hoby)
+about_me=''' i'm mayowa and
+ i'm 9 years old'''
+print (about_me)
+hobbies='''play fun and war
+swim bime manger'''
+print(hobbies)
+name='mayowa likes fun'
+print(f'mayowa mayowa mayowa {name} ')
+x_mas="am a swimer"
+print(f"mayowa {x_mas}")
+age=9
+name='mayowa'
+job='coder'
+sport='swiming'
+food='fish'
+male_or_female='boy'
+day='friday'
+game='ludo'
+
+print(f'''i am {name} i am {age} i work as a {job} i love {sport} my favorite food is {food} 
+i am a {male_or_female} and i love {day} and i like {game} ''')
